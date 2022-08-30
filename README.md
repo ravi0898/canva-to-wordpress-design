@@ -13,5 +13,5 @@ Radinno Labs was founded out of our desire to fundamentally change the way impla
 | Color | #5ce1e6  |
 
 
-![Radinnolabs](https://raw.githubusercontent.com/ravi0898/canva-to-wordpress-design/main/radinno-labs.png?token=GHSAT0AAAAAABYGHSZCD44DS5JMEQBPPMVMYYOAIWA)
+![Radinnolabs](https://raw.githubusercontent.com/ravi0898/canva-to-wordpress-design/main/radinno-labs.png?token=GHSAT0AAAAAABYGHSZDVA2F2WRKHHHYER4IYYOAROA)
 
