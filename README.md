@@ -1,7 +1,9 @@
 
 # Canva-to-wordpress-design
 Website Detils =:
-Radinno Labs was founded out of our desire to fundamentally change the way implanted items are constructed. Our goal is to help you build brilliant items FASTER.
+We worked on the Wordpress website redesign Canva to Wordpress using Elementor and WP-admin, saving new pages in drafts and publishing them once the client approves. Our team also provided support for setting up the 7-page website in WordPress.
+
+Additionally, we worked on the SEO part of the website, which has a loading speed of 90+ on desktops and mobile devices, and will receive an A rating on the Website GTMetrix report. In just seven days, we completed the website with the documentation shared with the client.
 
 ## Color Reference
 
